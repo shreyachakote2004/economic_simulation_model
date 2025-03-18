@@ -21,7 +21,7 @@ This project is a Python-based economic simulation model that includes a banking
 ## Usage
 1. Run the simulation:
    ```bash
-   python simulation.py
+   python howtomakemoney.py
    ```
 2. Adjust parameters in the script to test different economic scenarios.
 
