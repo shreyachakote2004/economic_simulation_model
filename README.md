@@ -17,10 +17,6 @@ This project is a Python-based economic simulation model that includes a banking
 - Matplotlib
 - SciPy
 
-Install dependencies using:
-```bash
-pip install numpy matplotlib scipy
-```
 
 ## Usage
 1. Run the simulation:
@@ -29,20 +25,9 @@ pip install numpy matplotlib scipy
    ```
 2. Adjust parameters in the script to test different economic scenarios.
 
-## Code Structure
-- `bank.py` - Defines the bank system and loan logic.
-- `investment.py` - Handles investments and returns.
-- `person.py` - Defines individual economic agents.
-- `simulation.py` - Runs the main economic simulation.
 
 ## Issues & Improvements
 - **Loan Default Handling:** Improve default threshold logic.
 - **Investment Returns:** Optimize profit calculation.
 - **Price Stability:** Implement dynamic adjustments.
-
-## Contributing
-Feel free to submit pull requests to improve the model or add new features.
-
-## License
-This project is open-source under the MIT License.
 
